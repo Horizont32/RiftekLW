@@ -15,6 +15,10 @@
 *.mod
 *.smod
 
+# LabView Data files
+*.tdms
+*.tdms_index
+
 # Executables
 *.exe
 *.out
